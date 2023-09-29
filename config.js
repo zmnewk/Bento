@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Zander',
+	name: 'Human',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -122,7 +122,7 @@ const CONFIG = {
 					name: 'lofi hip hop radio',
 					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 				}
-			],
+			]
 		},
 		{
 			icon: 'coffee',
@@ -136,8 +136,8 @@ const CONFIG = {
 					name: 'Slack',
 					link: 'https://www.slack.com',
 				}
-			],
-		},
+			]
+		}
 	],
 
 	// Second Links Container
