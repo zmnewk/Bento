@@ -137,8 +137,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'sizzleForum',
-					link: 'https://forum.thesizzle.com.au',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
 				},
 				{
 					name: 'Slack',
