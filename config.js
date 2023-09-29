@@ -137,7 +137,7 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Sizzle Forum',
+					name: 'sizzleForum',
 					link: 'https://forum.thesizzle.com.au',
 				},
 				{
