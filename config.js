@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Human',
+	name: 'User',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '9e1833bd8c6ffd42307a26438f16ca45', // Write here your API Key
+	weatherKey: '4a646a3a123bce338b12d2d95e669d72', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,16 +53,16 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
+			name: 'Blog',
+			icon: 'newspaper',
+			link: 'https://words.newcombe.cloud',
+		},
+		{
+			id: '2',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://app.fastmail.com',
 		},
-		{
-			id: '2',
-			name: 'Blog',
-			icon: 'newspaper',
-			link: 'https://words.newcombe.cloud',
-		}
 	],
 
 	secondButtonsContainer: [
@@ -115,14 +115,22 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'lofi ATC',
-					link: 'https://www.lofiatc.com/',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'lofi hip hop radio',
-					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
-				}
-			]
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+			],
 		},
 		{
 			icon: 'coffee',
@@ -135,9 +143,9 @@ const CONFIG = {
 				{
 					name: 'Slack',
 					link: 'https://www.slack.com',
-				}
-			]
-		}
+				},
+			],
+		},
 	],
 
 	// Second Links Container
