@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Blog',
 			icon: 'newspaper',
-			link: 'https://words.newcombe.cloud',
+			link: 'https://newark.newcombe.cloud',
 		},
 		{
 			id: '2',
