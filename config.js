@@ -63,5 +63,11 @@ const CONFIG = {
 			icon: 'mail',
 			link: 'https://app.fastmail.com',
 		},
+		{
+			id: '3',
+			name: 'Invoices',
+			icon: 'file-stack',
+			link: 'http://crater.newcombe.cloud',
+		},
 	],
 };
