@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Invoices',
 			icon: 'file-stack',
-			link: 'http://crater.newcombe.cloud',
+			link: 'http://invoicing.newcombe.cloud',
 		},
 	],
 };
